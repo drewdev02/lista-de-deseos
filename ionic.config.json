@@ -1,0 +1,8 @@
+{
+  "name": "Lista de deseos ",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "89a72a48"
+}
